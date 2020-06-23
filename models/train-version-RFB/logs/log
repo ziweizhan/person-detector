@@ -1,0 +1,18 @@
+2020-06-23 10:18:36,862 - root - INFO - inpu size :320
+priors nums:5329
+2020-06-23 10:18:37,015 - root - INFO - Use Cuda.
+2020-06-23 10:18:37,015 - root - INFO - Namespace(balance_data=False, base_net=None, base_net_lr=None, batch_size=24, checkpoint_folder='./models/train-version-RFB', cuda_index='0', dataset_type='voc', datasets=['/home/uc/Ultra-Light-Fast-Generic-Face-Detector-1MB-1/VOC2007'], debug_steps=100, extra_layers_lr=None, freeze_base_net=False, freeze_net=False, gamma=0.1, input_size=320, log_dir='./models/train-version-RFB/logs', lr=0.01, milestones='95,150', momentum=0.9, net='RFB', num_epochs=200, num_workers=4, optimizer_type='SGD', overlap_threshold=0.35, power=2, pretrained_ssd=None, resume=None, scheduler='multi-step', t_max=120, use_cuda=True, validation_dataset='/home/uc/Ultra-Light-Fast-Generic-Face-Detector-1MB-1/VOC2007', validation_epochs=5, weight_decay=0.0005)
+2020-06-23 10:18:37,015 - root - INFO - Prepare training datasets.
+2020-06-23 10:18:37,026 - root - INFO - No labels file, using default VOC classes.
+2020-06-23 10:18:37,026 - root - INFO - Stored labels into file ./models/train-version-RFB/voc-model-labels.txt.
+2020-06-23 10:18:37,026 - root - INFO - Train dataset size: 45174
+2020-06-23 10:18:37,026 - root - INFO - Prepare Validation datasets.
+2020-06-23 10:18:37,026 - root - INFO - No labels file, using default VOC classes.
+2020-06-23 10:18:37,026 - root - INFO - validation dataset size: 576
+2020-06-23 10:18:37,026 - root - INFO - Build network.
+2020-06-23 10:18:38,212 - root - INFO - use gpu :[0]
+2020-06-23 10:18:38,213 - root - INFO - Took 0.00 seconds to load the model.
+2020-06-23 10:18:38,214 - root - INFO - Learning rate: 0.01, Base net learning rate: 0.01, Extra Layers learning rate: 0.01.
+2020-06-23 10:18:38,214 - root - INFO - Uses MultiStepLR scheduler.
+2020-06-23 10:18:38,215 - root - INFO - Start training from epoch 0.
+2020-06-23 10:18:49,184 - root - INFO - Epoch: 0, Step: 100, Average Loss: 7.1722, Average Regression Loss 4.6603, Average Classification Loss: 2.5120

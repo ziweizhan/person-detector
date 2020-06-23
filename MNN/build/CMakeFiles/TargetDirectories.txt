@@ -1,0 +1,3 @@
+/home/uc/Ultra-Light-Fast-Generic-Face-Detector-1MB/MNN/build/CMakeFiles/rebuild_cache.dir
+/home/uc/Ultra-Light-Fast-Generic-Face-Detector-1MB/MNN/build/CMakeFiles/Ultra-face-mnn.dir
+/home/uc/Ultra-Light-Fast-Generic-Face-Detector-1MB/MNN/build/CMakeFiles/edit_cache.dir
