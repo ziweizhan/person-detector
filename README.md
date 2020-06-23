@@ -110,3 +110,7 @@ make -j8
 ```python
 ./quantized.out XXX.mnn XXX-INT8.mnn pretreatConfig.json
 ```
+## 最后感谢下面的作者    
+https://www.yuque.com/mnn/cn/tool_quantize    
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB    
+https://github.com/ruinmessi/RFBNet
