@@ -1,3 +1,6 @@
+# 视频展示检测效果
+由于训练的Epoch较少，检测效果并不是很理想。大家可以自己去调参来提升检测效果。        
+https://www.bilibili.com/video/BV1hZ4y1H7f9/
 # person-detector    
 ## 环境搭建    
 1. 首先安装pytorch环境。pytorch版本1.2及以上版本。 
